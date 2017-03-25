@@ -47,8 +47,8 @@
     "dragula": "^3.7.2"
   },
   "peerDependencies": {
-    "@angular/core": "^2.3.0",
-    "@angular/common": "^2.3.0"
+    "@angular/core": "^4.0.0",
+    "@angular/common": "^4.0.0"
   },
   "devDependencies": {
     "@angular/common": "2.4.3",
